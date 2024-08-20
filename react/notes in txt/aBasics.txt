@@ -1,0 +1,7 @@
+facebook faced a problem called phantom message
+message dekhne k baad bhi notification icon nhi jaata tha
+
+there was state in js
+and ui in dom
+
+but they were not syncing
