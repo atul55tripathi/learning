@@ -5,3 +5,9 @@ there was state in js
 and ui in dom
 
 but they were not syncing
+hence we need react
+
+react to hoti hai hai
+    - react dom, isi ki library hai, jab web pe kaam krna hai to ispe focus
+    - react native, bhi react ki library hai, jab mobile application pe kaam krna hai, to ispe focus
+

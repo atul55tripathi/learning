@@ -1,0 +1,28 @@
+npx create-react-app name;
+    npx node package manager/ eXecute
+
+node package manager se install hota hai
+
+install nhi krna, seedha create to npx
+
+now go to project and see there is a file wiht json extension
+
+have following dependencies:
+1. jest: react me testing k liye
+2. react: main library
+3. react-dom: another main library for web pages
+4. scripts: running and making project ready is done by this
+5. web-vitals: checking the performance for app
+
+scripts:
+1. start: shuru krne k liye
+2. build: generate 
+3. test: testing k liye
+4. eject: nikalne k liye react se
+
+jaha package.json dikh raha hai, waha start script ko chala sakte hai
+
+
+npm run start           // we can also just write npm start
+                        // lekin bakiyo k liye npm run build and others can be done in same syntax
+
