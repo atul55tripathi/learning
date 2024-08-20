@@ -1,0 +1,10 @@
+
+components k naam hamesha capital se shuru
+
+return ek hi index ho sakta hai
+
+issi liye, <> and </>  ka use
+
+
+name bhi file k capital se shuru preferred hai
+extension .js ki jagah .jsx preferred hai vite me

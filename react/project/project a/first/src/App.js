@@ -1,9 +1,12 @@
 
-
+import NyaComp from "./NyaComp";
 
 function App() {
   return (
-         <h1> chai chalri hai</h1> 
+         <>
+         <h3>pta nhi bhai kya chalra</h3>
+         <NyaComp/>
+         </>
   );
 }
 

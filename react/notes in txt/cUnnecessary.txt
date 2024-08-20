@@ -2,3 +2,9 @@
 
 app.js
 index.js
+
+sab kuch chal to index.html me hi raha hoga, 
+bina js import kare html me run thodi hoga
+
+wo html hai public me, index.html
+single page hai, wahi sare changes hote hai components se
